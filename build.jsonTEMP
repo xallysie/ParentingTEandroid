@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "/Users/Sally/Documents/ExperienceSampling/ParentingTE/ParentingTEandroid/ParentingTE.keystore",
+      "storePassword": "ParentingTE",
+      "alias": "ParentingTE",
+      "password" : "ParentingTE",
+      "keystoreType": ""
+    }
+  }
+}
